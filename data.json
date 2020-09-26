@@ -15,7 +15,7 @@
                                 "id": "4",
                                 "parent_id": "9",
                                 "name": "Dijagonala 13",
-                                "children": [ {
+                                "children": [ [{
                                             "id": "20",
                                             "parent_id": "4",
                                             "name": "Lenovo",
@@ -32,7 +32,7 @@
                                             "parent_id": "4",
                                             "name": "Assus",
                                             "children": []
-                                        }]
+                                        }]]
                             },
                             {
                                 "id": "5",
