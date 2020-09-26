@@ -15,7 +15,24 @@
                                 "id": "4",
                                 "parent_id": "9",
                                 "name": "Dijagonala 13",
-                                "children": []
+                                "children": [ {
+                                            "id": "20",
+                                            "parent_id": "4",
+                                            "name": "Lenovo",
+                                            "children": []
+                                        },
+                                        {
+                                            "id": "21",
+                                            "parent_id": "4",
+                                            "name": "Dell",
+                                            "children": []
+                                        },
+                                        {
+                                            "id": "22",
+                                            "parent_id": "4",
+                                            "name": "Assus",
+                                            "children": []
+                                        }]
                             },
                             {
                                 "id": "5",
